@@ -1,0 +1,73 @@
+📌 Worksheet 2: Advanced Level
+Concepts Covered:
+Python (Decorators, Generators, Multithreading)
+Software Engineering (Microservices, API Design)
+Data Analysis (Feature Engineering, Data Wrangling)
+Data Science (Classification, Clustering)
+Azure (Azure Kubernetes Service, Storage)
+DevOps (CI/CD, Terraform)
+System Design (Scalability, Load Balancing)
+SQL (Joins, Indexing, Optimization)
+🔹 Questions (15 Total)
+MCQ: What will @staticmethod do in Python?
+a) Make a method static
+b) Make a method private
+c) Define a constructor
+d) Run the function automatically
+
+MCQ: Which of these is a clustering algorithm?
+a) Linear Regression
+b) K-Means
+c) Decision Trees
+d) SVM
+
+Coding: Implement a Python generator function to yield Fibonacci numbers up to 'n'.
+
+MCQ: Which Azure service is best for container orchestration?
+a) Azure DevOps
+b) Azure Kubernetes Service
+c) Azure Logic Apps
+d) Azure SQL
+
+MCQ: What does "Infrastructure as Code" refer to in DevOps?
+a) Manually setting up servers
+b) Automating infrastructure with code
+c) Writing Python scripts for APIs
+d) Using SQL for infrastructure
+
+SQL Query: Write a query to find duplicate records in a "users" table.
+
+Coding: Implement multithreading in Python to calculate factorial of numbers in parallel.
+
+System Design: How would you design a scalable URL shortening service like Bit.ly?
+
+MCQ: What is the purpose of L2 regularization?
+a) Preventing underfitting
+b) Reducing overfitting
+c) Improving accuracy
+d) Increasing model complexity
+
+MCQ: Which of these improves database query performance?
+a) Indexing
+b) More joins
+c) Using only SELECT *
+d) Avoiding indexes
+
+MCQ: What is Blue-Green deployment in DevOps?
+a) Running two identical environments to reduce downtime
+b) Database optimization
+c) A Kubernetes concept
+d) A software testing strategy
+
+Coding: Write a Python program that implements a Least Recently Used (LRU) cache.
+
+MCQ: What is the difference between TCP and UDP in system design?
+
+MCQ: Which Azure storage type is best for large-scale unstructured data?
+a) Azure Blob Storage
+b) Azure SQL
+c) Azure Functions
+d) Azure Kubernetes
+
+SQL Query: Write an optimized query to fetch the top 5 highest-paid employees from each department.
+
