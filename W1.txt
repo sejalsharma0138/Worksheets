@@ -1,0 +1,81 @@
+📌 Worksheet 1: Intermediate Level
+Concepts Covered:
+Python (Functions, OOP, Error Handling)
+Software Engineering (SDLC, Design Patterns)
+Data Analysis (Pandas, NumPy)
+Data Science (Statistics, Regression)
+Azure Fundamentals
+DevOps Fundamentals
+System Design Fundamentals
+SQL Basics
+🔹 Questions (15 Total)
+MCQ: Which of the following is not a valid Python variable name?
+a) data_123
+b) _value
+c) 1variable
+d) var_name
+
+MCQ: What does try-except do in Python?
+a) Handles runtime errors
+b) Defines a function
+c) Loops through elements
+d) Declares a class
+
+Coding: Write a Python function to count the frequency of each word in a given text string.
+
+MCQ: Which SDLC model follows the sequential approach?
+a) Agile
+b) Waterfall
+c) DevOps
+d) Spiral
+
+MCQ: What is the primary function of NumPy?
+a) Data visualization
+b) Working with arrays
+c) Web development
+d) Machine learning
+
+Coding: Write a Pandas function to remove duplicate values from a DataFrame column.
+
+MCQ: What does R^2 value in regression represent?
+a) Correlation coefficient
+b) Goodness of fit
+c) Model complexity
+d) Loss function
+
+MCQ: In Azure, which service is used for serverless computing?
+a) Azure SQL
+b) Azure Functions
+c) Azure Blob Storage
+d) Azure Virtual Machines
+
+MCQ: What is the main goal of DevOps?
+a) Slow releases
+b) Waterfall model
+c) Collaboration between dev and ops teams
+d) Only automation
+
+System Design: Describe the CAP theorem in distributed systems.
+
+SQL Query: Write a query to find the second-highest salary from the "employees" table.
+
+Coding: Implement a simple Python class for a "BankAccount" with deposit and withdraw methods.
+
+MCQ: What is an ACID property in databases?
+a) Atomicity, Consistency, Isolation, Durability
+b) Algorithm, Code, Implementation, Debugging
+c) Auto, Commit, Isolation, Database
+d) AI, Cloud, Internet, Data
+
+MCQ: Which design pattern is used for creating only one instance of a class?
+a) Factory Pattern
+b) Singleton Pattern
+c) Observer Pattern
+d) MVC
+
+MCQ: What is the primary function of Docker in DevOps?
+a) Server management
+b) Containerization
+c) Network security
+d) Database handling
+
