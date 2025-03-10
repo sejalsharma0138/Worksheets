@@ -1,0 +1,77 @@
+1> c
+2> a
+3> CODE
+s = "aabsddkl"
+d={i:s.count(i) for i in set(s)}
+		or 
+from collections import Counter
+d = dict(Counter(s))
+print(d)
+
+4> b
+5> b
+
+6> 
+ df['col']=df.drop_duplicates(subset=['col'])
+
+7>b
+8>b
+9>c
+10> CAP theorem?
+11> Select TOP 1* from employees where salary<(select MAX(salary) from employees) Order by salary desc;
+
+12> class BankAccount:
+    def __init__(self, balance=0):
+        self.balance = balance
+
+    def withdraw(self, amount):
+        if amount <= self.balance:
+            self.balance -= amount
+        else:
+            print("Insufficient Balance")
+        return self.balance
+
+    def deposit(self, amount):
+        self.balance += amount
+        return self.balance
+
+
+# Example Usage
+account = BankAccount(1000)  # Initial balance = 1000
+print(account.deposit(500))   # Output: 1500
+print(account.withdraw(200))  # Output: 1300
+print(account.withdraw(2000)) # Output: "Insufficient Balance", remains 1300
+
+13> a
+14> Factory pattern, singleton pattern, observer pattern ,mvc
+15> b
+
+Which of the following is not a valid Python variable name?
+✅ c) 1variable
+
+What does try-except do in Python?
+✅ a) Handles runtime errors
+
+Which SDLC model follows the sequential approach?
+✅ b) Waterfall
+
+What is the primary function of NumPy?
+✅ b) Working with arrays
+
+What does R² value in regression represent?
+✅ b) Goodness of fit
+
+In Azure, which service is used for serverless computing?
+✅ b) Azure Functions
+
+What is the main goal of DevOps?
+✅ c) Collaboration between dev and ops teams
+
+What is an ACID property in databases?
+✅ a) Atomicity, Consistency, Isolation, Durability
+
+Which design pattern is used for creating only one instance of a class?
+✅ b) Singleton Pattern
+
+What is the primary function of Docker in DevOps?
+✅ b) Containerization
