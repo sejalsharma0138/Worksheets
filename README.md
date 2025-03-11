@@ -1,4 +1,3 @@
-# Worksheets
 # 📚 Worksheets Repository
 
 Welcome to the **Worksheets** repository! 🎯 This repo is a collection of **tech-related worksheets** covering various topics, including **SQL, System Design, Python, and more.** It also contains **solutions and additional reference materials** to help you practice and improve your skills.  
