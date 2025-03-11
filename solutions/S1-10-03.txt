@@ -1,3 +1,5 @@
+Solutions to W1.txt - 10/03/2025
+
 1> c
 2> a
 3> CODE
@@ -7,20 +9,17 @@ d={i:s.count(i) for i in set(s)}
 from collections import Counter
 d = dict(Counter(s))
 print(d)
-
 4> b
 5> b
-
-6> 
+6> CODE
  df['col']=df.drop_duplicates(subset=['col'])
-
 7>b
 8>b
 9>c
-10> CAP theorem?
-11> Select TOP 1* from employees where salary<(select MAX(salary) from employees) Order by salary desc;
-
-12> class BankAccount:
+10> CAP theorem? - System Design Docx
+11> SQL -  Select TOP 1* from employees where salary<(select MAX(salary) from employees) Order by salary desc;
+12> CODE 
+class BankAccount:
     def __init__(self, balance=0):
         self.balance = balance
 
@@ -35,7 +34,6 @@ print(d)
         self.balance += amount
         return self.balance
 
-
 # Example Usage
 account = BankAccount(1000)  # Initial balance = 1000
 print(account.deposit(500))   # Output: 1500
@@ -43,9 +41,10 @@ print(account.withdraw(200))  # Output: 1300
 print(account.withdraw(2000)) # Output: "Insufficient Balance", remains 1300
 
 13> a
-14> Factory pattern, singleton pattern, observer pattern ,mvc
+14> Factory pattern, singleton pattern, observer pattern ,mvc - System Design Docx
 15> b
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Which of the following is not a valid Python variable name?
 ✅ c) 1variable
 
